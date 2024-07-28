@@ -15,7 +15,7 @@
   <strong><a href="https://google.com">Official Google</a></strong> 
 </p>
 
-<p align="center">❤ I'm currently working on Software, Anime / Manga, Game Dev, and Content Creation.</p>
+<p align="center">Hello, I'm arzyyy's, a dedicated website pentester and bug hunter. I specialize in identifying vulnerabilities and ensuring the security of web applications. Passionate about ethical hacking and contributing to a safer online environment. Let's connect and collaborate!.</p>
 
 <!--
 Here are some ideas to get you started:
