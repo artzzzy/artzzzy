@@ -11,7 +11,8 @@
 
 <p align="center">
   <strong><a href="https://t.me/DarkSpecterr">Official Telegram</a></strong> |
-  <strong><a href="https://t.me/aryzzzs_bot">Official Root</a></strong> |
+  <strong><a href="https://t.me/aryzzzs_bot">Official Boot</a></strong> |
+  <strong><a href="https://google.com">Google</a></strong> 
 </p>
 
 <p align="center">❤ I'm currently working on Software, Anime / Manga, Game Dev, and Content Creation.</p>
